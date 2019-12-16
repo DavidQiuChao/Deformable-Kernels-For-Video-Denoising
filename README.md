@@ -6,3 +6,6 @@ The key algorithm is based on the public avalible code provide by [Bin Zhang](ht
 ## How to train the code
 First, you need check out the "param.cfg" file and configurates some key params for your self.
 Then, run the command "python main.py -c param.cfg" for training the framework.
+
+## SID-Sony result
+![res0](https://github.com/DavidQiuChao/Deformable-Kernels-For-Video-Denoising/blob/master/0.jpg)
